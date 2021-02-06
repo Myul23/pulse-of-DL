@@ -30,6 +30,10 @@ Energy-based models
 - softmax 기법을 통해 확률을 구하고자 하면, 가능한 모든 수의 visible(input)과 hidden의 값을 모두 고려해야 하므로 한 번 계산하는데 시간이 많이 걸림.
 - 그래서 Baysian's Rule을 통해 conditional distribution을 이용해 다르게 접근해고자 함.
 
+<img src="images/RBM_element2.JPG" style="display: block; margin: auto;" />
+<img src="images/RBM_element3.JPG" style="display: block; margin: auto;" />
+<img src="images/RBM_element4.JPG" style="display: block; margin: auto;" />
+
 ```
 깁스 샘플링(or MC sampling) 기법에 대해 찾아봐야 알겠지만, 개인적으로 깁스 샘플링을 통해 input을 샘플링(x)을 구성. (개념적으로 batch 구하기인 듯 함)
 
