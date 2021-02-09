@@ -52,3 +52,4 @@ join distribution에 대한 monte carlo를 하듯 mc sampling을 진행함?
 
 - RBM을 쌓아서 계층을 구성. (until 2014)
 - http://enginius.tistory.com/315
+- [A Practical Guide to Training Restricted Boltzmann Machines](https://github.com/sjchoi86/dl_tutorials_10weeks/blob/master/papers/A%20Practical%20Guide%20to%20Training%20Restricted%20Boltzmann%20Machines.pdf)
